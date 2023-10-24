@@ -22,6 +22,24 @@
 
   ### Chapter 5: Arranging Machine Learning Projects.
 
+  ### Chapter 6: Approaching Categorical Variables.
+    - Label Encoding
+    - One Hot Encoding
+    - Target Encoding
+    - Entity Embedding
+
+  ### Chapter 7: Feature Engineering.
+    - Handling Missing Data
+      * Delete the Columns
+      * Impute missing values for Continuous variable
+      * Impute missing values for Categorical variable
+      * Predict the missing Values
+    - Encoding Categorical Data
+      * Encoding Independent Variables
+      * Encoding Dependent Variables
+    - Feature Scaling
+
+
 
 
 ---

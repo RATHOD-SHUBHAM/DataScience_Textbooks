@@ -5,7 +5,7 @@
 
 ## 1. Approaching (Almost) Any Machine Learning Problem
 
-  ### Chapter 2: Supervised and Unsupervised Learning
+  ### Chapter 2: Supervised and Unsupervised Learning.
     - Dimensionality Reduction for Machine Learning
     - Supervised vs Unsupervised
 
@@ -16,10 +16,16 @@
     4. Leave-one-out cross-validation
     5. Monte Carlo (shuffle-split)
 
+  ### Chapter 4: Evaluation_Metrics.
+    - Classification
+    - Regression
+
+
+    
 ---
 Reference:
   1. Analytics Vidhya.
   2. Neptune.ai
   3. Kaggle
-  4. 
+  4. Aman's AI Journal
 

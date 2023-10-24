@@ -20,8 +20,10 @@
     - Classification
     - Regression
 
+  ### Chapter 5: Arranging Machine Learning Projects.
 
-    
+
+
 ---
 Reference:
   1. Analytics Vidhya.

@@ -38,6 +38,29 @@
       * Encoding Independent Variables
       * Encoding Dependent Variables
     - Feature Scaling
+  
+  ### Chapter 8: Feature Selection.
+    - Filter Methods
+      2.1. Basic Methods
+      2.1.1 Remove Constant Features
+      2.1.2 Remove Quasi-Constant Features
+      2.2 Univariate Selection Methods
+      2.2.1 SelectKBest
+      2.2.2 SelectPercentile
+      2.3 Information Gain
+      2.4 Fisher Score (chi-square implementation)
+      2.5 ANOVA F-Value for Feature Selection
+      2.6 Correlation-Matrix with Heatmap
+    - Wrapper Methods
+      3.1 Forward Selection
+      3.2 Backward Elimination
+      3.3 Exhaustive Feature Selection
+      3.4 Recursive Feature Elimination
+      3.5 Recursive Feature Elimination with Cross-Validation
+    - Embedded Methods
+      4.1 LASSO Regression
+      4.2 Random Forest Importance
+
 
 
 

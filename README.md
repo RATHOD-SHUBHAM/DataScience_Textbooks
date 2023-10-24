@@ -60,6 +60,8 @@
     - Embedded Methods
       4.1 LASSO Regression
       4.2 Random Forest Importance
+    
+  ### Chapter 9: Hyperparemeter Optimization
 
 
 

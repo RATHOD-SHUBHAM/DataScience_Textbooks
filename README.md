@@ -9,6 +9,8 @@
     - Dimensionality Reduction for Machine Learning
     - Supervised vs Unsupervised
 
+   ### Chapter 3: Cross Validation.
+
 ---
 Reference:
   1. Analytics Vidhya.

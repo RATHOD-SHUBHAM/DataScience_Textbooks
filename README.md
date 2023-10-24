@@ -7,6 +7,7 @@
 
   ### Chapter 2: Supervised and Unsupervised Learning
     - Dimensionality Reduction for Machine Learning
+    - Supervised vs Unsupervised
 
 ---
 Reference:

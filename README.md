@@ -10,6 +10,11 @@
     - Supervised vs Unsupervised
 
    ### Chapter 3: Cross Validation.
+    1. K-fold cross-validation
+    2. Stratified k-fold cross-validation
+    3. Leave-p-out cross-validation
+    4. Leave-one-out cross-validation
+    5. Monte Carlo (shuffle-split)
 
 ---
 Reference:
